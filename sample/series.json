@@ -1,0 +1,4 @@
+{
+  "value_error_code": "E_EMPTY_VALUES",
+  "values": [5, -3, -4, 6, -5, 2]
+}
